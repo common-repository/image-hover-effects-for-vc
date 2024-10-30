@@ -1,0 +1,15 @@
+.it_h_custom_css{
+	min-height:300px;
+}
+.it-main-heading{
+	display:block;
+	margin:30px 0 20px 0;
+}
+.it-main-heading span{
+	display:inline-block;
+	font-size:15px;
+	font-weight:bold;
+	color: #fff;
+    background-color: #666;
+    padding: 10px;
+}
